@@ -82,6 +82,11 @@
 - **Description:** Real-time event-driven financial microservice built during the JPMC Advanced Software Engineering Forage program.
 - **Technologies:** Java, Spring Boot, Apache Kafka, Spring Data JPA, Maven
 
+### 8. 🛡️ [CivicAI — Problem Detection Platform](https://github.com/pbalamurali74-hue/CivicAI)
+- **Description:** Edge AI mobile urban intelligence platform utilizing public transit camera fleets for automated road distress and hazard detection with multi-bus Bayesian consensus.
+- **Technologies:** Python, Edge AI, Computer Vision, Pytest, FastAPI
+
+
 ---
 
 ## 📜 Verified Certifications & Virtual Internships
