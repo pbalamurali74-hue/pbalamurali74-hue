@@ -54,38 +54,53 @@
 ### 1. ⚙️ [NASA Turbofan Engine RUL Prediction](https://github.com/pbalamurali74-hue/TurboFan-Degradation-ML-Project)
 - **Description:** Predictive degradation modeling using multivariate sensor time-series measurements from the NASA C-MAPSS dataset.
 - **Technologies:** Python, Scikit-Learn, Pandas, NumPy, Time-Series Modeling
-- **Outcome:** Accurate Remaining Useful Life (RUL) regression forecasting per operating cycle.
+- **Outcome:** Remaining Useful Life (RUL) regression forecasting per operating cycle.
 
 ### 2. 🔒 [Secure FastAPI REST Service](https://github.com/pbalamurali74-hue/ToDo-LIST-API)
-- **Description:** Production-ready RESTful service featuring dual JWT token sessions (15-min access / 7-day refresh), Pydantic validation, bcrypt security, and slowapi rate limiting.
+- **Description:** RESTful service featuring JWT authentication, Pydantic validation, bcrypt security, and rate limiting.
 - **Technologies:** FastAPI, SQLAlchemy, SQLite, Pydantic, slowapi, Vercel
 - **Live Demo:** [to-do-list-api-tau.vercel.app](https://to-do-list-api-tau.vercel.app)
 
 ### 3. 📊 [Customer Churn Prediction Engine & Dashboard](https://github.com/pbalamurali74-hue/FUTURE_ML_02)
-- **Description:** End-to-end ML churn classification system comparing Logistic Regression, Random Forest, and XGBoost, with a Streamlit app and Power BI dashboard.
+- **Description:** End-to-end ML churn classification system comparing Logistic Regression, Random Forest, and XGBoost, with Streamlit and Power BI.
 - **Technologies:** Python, XGBoost, Streamlit, Power BI, Scikit-Learn
 - **Live Demo:** [FutureML Churn App](https://futureml02-6n7gwjmkst9xsnsnpbpmcq.streamlit.app/)
 
-### 4. 🧮 [Interactive Matrix Operations Tool](https://github.com/pbalamurali74-hue/MatrixOperations)
-- **Description:** Dual-interface linear algebra calculator featuring dynamic shape auto-binding in Tkinter GUI and CLI mode (`--cli`).
-- **Technologies:** Python, NumPy, Tkinter, Pytest
+### 4. 🛡️ [CivicAI — Problem Detection Platform](https://github.com/pbalamurali74-hue/CivicAI)
+- **Description:** Edge-AI urban intelligence platform for automated road distress and hazard detection.
+- **Technologies:** Python, Edge AI, Computer Vision, FastAPI, Pytest
 
-### 5. 📈 [Superstore Sales Forecasting & Analytics Dashboard](https://github.com/pbalamurali74-hue/FUTURE_ML_01)
-- **Description:** Time-series revenue forecasting model and Power BI executive analytics dashboard analyzing historical retail transaction trends.
-- **Technologies:** Python, Pandas, Prophet, Power BI, Jupyter Notebook
+### 5. 🌍 [GeoImpathon Multi-Hazard DSS](https://github.com/pbalamurali74-hue/geoimpathon-multi-hazard-dss)
+- **Description:** Multi-hazard decision-support system for geospatial risk and disaster analysis.
 
-### 6. 🤖 [Intent-Based AI Conversational Bot](https://github.com/pbalamurali74-hue/FUTURE_ML_03)
-- **Description:** NLP customer support chatbot utilizing structured JSON intent taxonomy, TF-IDF vectorization, Scikit-Learn classification, and a lightweight Flask web interface.
-- **Technologies:** Python, NLP, Flask, Scikit-Learn, NLTK
+### 6. 🛰️ [GeoShield AI](https://github.com/pbalamurali74-hue/geoshield-ai)
+- **Description:** AI-focused geospatial safety and hazard intelligence project.
 
-### 7. 🏛️ [JPMorgan Chase Software Engineering (Midas)](https://github.com/pbalamurali74-hue/forage-midas)
-- **Description:** Real-time event-driven financial microservice built during the JPMC Advanced Software Engineering Forage program.
-- **Technologies:** Java, Spring Boot, Apache Kafka, Spring Data JPA, Maven
+---
 
-### 8. 🛡️ [CivicAI — Problem Detection Platform](https://github.com/pbalamurali74-hue/CivicAI)
-- **Description:** Edge AI mobile urban intelligence platform utilizing public transit camera fleets for automated road distress and hazard detection with multi-bus Bayesian consensus.
-- **Technologies:** Python, Edge AI, Computer Vision, Pytest, FastAPI
+## 📚 All Repositories
 
+| Repository | Type | Focus |
+|---|---|---|
+| [FUTURE_ML_01](https://github.com/pbalamurali74-hue/FUTURE_ML_01) | 🌐 Public | Superstore Sales Forecasting & Analytics |
+| [FUTURE_ML_02](https://github.com/pbalamurali74-hue/FUTURE_ML_02) | 🌐 Public | Customer Churn Prediction |
+| [FUTURE_ML_03](https://github.com/pbalamurali74-hue/FUTURE_ML_03) | 🌐 Public | NLP Intent-Based Chatbot |
+| [edugrant-pro](https://github.com/pbalamurali74-hue/edugrant-pro) | 🔒 Private | Education / Grant Platform |
+| [app.py](https://github.com/pbalamurali74-hue/app.py) | 🌐 Public | Python Application |
+| [forage-midas](https://github.com/pbalamurali74-hue/forage-midas) | 🌐 Public | JPMC Software Engineering / Midas |
+| [ToDo-LIST-API](https://github.com/pbalamurali74-hue/ToDo-LIST-API) | 🌐 Public | Secure FastAPI REST API |
+| [keepalive](https://github.com/pbalamurali74-hue/keepalive) | 🌐 Public | Utility / Keepalive Project |
+| [MatrixOperations](https://github.com/pbalamurali74-hue/MatrixOperations) | 🌐 Public | Linear Algebra / Matrix Operations |
+| [TurboFan-Degradation-ML-Project](https://github.com/pbalamurali74-hue/TurboFan-Degradation-ML-Project) | 🌐 Public | Turbofan Degradation ML |
+| [pbalamurali74-hue](https://github.com/pbalamurali74-hue/pbalamurali74-hue) | 🌐 Public | GitHub Profile README |
+| [CivicAI](https://github.com/pbalamurali74-hue/CivicAI) | 🌐 Public | AI Road Hazard Detection |
+| [Python-Leetcode-Submissions](https://github.com/pbalamurali74-hue/Python-Leetcode-Submissions) | 🌐 Public | Python DSA / LeetCode |
+| [portfolio](https://github.com/pbalamurali74-hue/portfolio) | 🌐 Public | Personal Portfolio |
+| [Turbofan-Engine-RUL-Prediction](https://github.com/pbalamurali74-hue/Turbofan-Engine-RUL-Prediction) | 🌐 Public | Remaining Useful Life Prediction |
+| [geoshield-ai](https://github.com/pbalamurali74-hue/geoshield-ai) | 🌐 Public | Geospatial AI / Safety |
+| [geoimpathon-multi-hazard-dss](https://github.com/pbalamurali74-hue/geoimpathon-multi-hazard-dss) | 🌐 Public | Multi-Hazard Decision Support |
+
+> **17 repositories total:** 16 public + 1 private.
 
 ---
 
